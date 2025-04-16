@@ -1,7 +1,7 @@
 # John the Ripper: Password Cracking Demo
 
 ## 🛠️ Project Overview
-This repository provides a comprehensive demonstration of **John the Ripper (JtR)** — a powerful and versatile password cracking tool used by cybersecurity professionals for password audits, penetration testing, and ethical hacking assessments. The main objective of this demo is to walk users through:
+This repository provides a comprehensive demonstration of **John the Ripper (JtR)** — a powerful and versatile password cracking tool used by cybersecurity professionals for password audits, penetration testing, and ethical hacking assessments. The main objective of this assignment is to walk users through:
 
 - Installing John the Ripper across major operating systems
 - Creating and loading sample password hash files
