@@ -10,6 +10,10 @@ This repository provides a comprehensive demonstration of **John the Ripper (JtR
 - Analyzing and interpreting cracking results
 
 ---
+## 🔐 Relevance in Cybersecurity and Network Security
+
+Password security is a critical pillar of cybersecurity. In real-world environments, system administrators and security professionals must routinely audit password strength to ensure compliance with best practices and reduce the risk of breaches due to weak credentials. Tools like **John the Ripper** simulate adversarial attacks by attempting to crack password hashes—mirroring the techniques used by malicious actors. This helps identify vulnerabilities before they can be exploited. In penetration testing, JtR is often used to demonstrate the consequences of poor password hygiene and to validate the robustness of encryption policies. Moreover, in CTFs and security labs, it serves as a practical training utility for understanding hash formats, brute force methods, and dictionary attacks. Mastery of such tools not only aids in strengthening defensive strategies but also builds a strong foundation in ethical hacking practices.
+
 
 ## 📦 Installation Instructions
 
